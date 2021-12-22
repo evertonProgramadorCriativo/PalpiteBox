@@ -10,7 +10,7 @@
 
 # Início
 
-## Pré-requisitos:
+### Pré-requisitos:
 
 Você Precisa do NodeJS e do NPM instalado em sua máquina.
 
