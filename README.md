@@ -3,7 +3,7 @@
    [![HitCount](http://hits.dwyl.com/evertonProgramadorCriativo/evertonProgramadorCriativo/PalpiteBox.svg?style=flat-square)](http://hits.dwyl.com/evertonProgramadorCriativo/evertonProgramadorCriativo/PalpiteBox)
    
    
-   ### Este projeto foi construído durante a Semana FullStack Master do DevPleno.Uma versão online deste Projeto pode ser encontrada em: https://palpite-box-dw6tu2j9x-evertonprogramadorcriativo.vercel.app/
+   ### Este projeto foi construído durante a Semana FullStack Master do DevPleno.Uma versão online deste Projeto pode ser encontrada em: https://palpite-box-pht6zzfsn-evertonprogramadorcriativo.vercel.app/
    
    ![Screenshot_26](https://user-images.githubusercontent.com/55323538/147152116-f03ea328-78fe-4630-b9e1-62c46249f3e1.png)
 
