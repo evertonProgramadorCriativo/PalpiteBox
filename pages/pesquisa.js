@@ -91,7 +91,7 @@ console.log(num)
                     )
                 })}
                 </div>
-                <button className='bg-blue-400 px-12 py-4 mt-2 mr-2 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
+                <button className='bg-blue-400 px-12 py-4 mt-1 mr-2 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
                  {/*<pre>{JSON.stringify(form,null,2)}</pre>*/}
             </div>}
             {sucess && <div className='w-1/5 mx-auto'>
