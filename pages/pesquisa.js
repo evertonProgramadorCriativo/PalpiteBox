@@ -92,7 +92,7 @@ console.log(num)
                 })}
                 </div>
                 <button className='bg-blue-400 px-12 py-4 font-bold rounded-lg shadow-lg hover:shadow' onClick={save}>Salvar</button>
-                <pre>{JSON.stringify(form,null,2)}</pre>
+                 {/*<pre>{JSON.stringify(form,null,2)}</pre>*/}
             </div>}
             {sucess && <div className='w-1/5 mx-auto'>
                 <p className='mb-6 text-center bg-blue-100 border-t border-b border-blue-500 text-blue-700 px-4 py3'>Obrigador por contribuir com sua sugestão ou crítica.</p>
